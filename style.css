@@ -388,4 +388,75 @@ nav a:hover {
   vertical-align: middle;
 }
 
+/* Intro layout: text left, photo right */
+main .intro-section {
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) 320px !important;
+  gap: 70px !important;
+  align-items: start !important;
+
+  background: transparent !important;
+  border: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+
+  padding: 0 !important;
+  margin-top: 0 !important;
+  margin-bottom: 90px !important;
+}
+
+.intro-text {
+  grid-column: 1;
+}
+
+.intro-photo-wrap {
+  grid-column: 2;
+  display: flex !important;
+  justify-content: flex-end !important;
+  align-items: flex-start !important;
+}
+
+.intro-photo-wrap .profile-photo {
+  width: 285px !important;
+  max-width: 285px !important;
+  height: auto !important;
+}
+
+/* About text should not look like a card */
+.about-intro {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  margin-top: 70px;
+}
+
+.about-intro h2 {
+  color: var(--text);
+  font-weight: 600;
+}
+
+/* Mobile only: stack photo and text */
+@media (max-width: 850px) {
+  main .intro-section {
+    grid-template-columns: 1fr !important;
+    gap: 32px !important;
+  }
+
+  .intro-text {
+    grid-column: 1;
+  }
+
+  .intro-photo-wrap {
+    grid-column: 1;
+    justify-content: flex-start !important;
+    order: -1;
+  }
+
+  .intro-photo-wrap .profile-photo {
+    width: 220px !important;
+    max-width: 220px !important;
+  }
+}
 
