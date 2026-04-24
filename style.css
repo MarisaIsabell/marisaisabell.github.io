@@ -253,3 +253,27 @@ nav a:hover {
   text-decoration: none;
   border-bottom: 1px solid var(--accent);
 }
+
+.hero {
+  margin-bottom: 34px;
+}
+
+.hero-text h1 {
+  font-size: 3.1rem;
+}
+
+.profile-photo {
+  width: 165px;
+  max-width: 165px;
+}
+
+@media (max-width: 650px) {
+  .hero-text h1 {
+    font-size: 2.35rem;
+  }
+
+  .profile-photo {
+    width: 135px;
+    max-width: 135px;
+  }
+}
