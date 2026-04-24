@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: Garamond, "EB Garamond", Georgia, serif;
   max-width: 780px;
   margin: 60px auto;
   padding: 0 24px;
@@ -10,6 +10,7 @@ body {
 
 header {
   margin-bottom: 48px;
+  font-family: "Avenir Next", Avenir, "Helvetica Neue", Arial, sans-serif;
 }
 
 h1 {
