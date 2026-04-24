@@ -193,3 +193,20 @@ footer {
   flex: 1;
 }
 
+main section:first-child {
+  background: transparent;
+  border: none;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+main section:first-child h2 {
+  border-bottom: none;
+  color: var(--text);
+  font-size: 1.45rem;
+}
+
+main section:first-child p {
+  font-size: 1.15rem;
+}
+
