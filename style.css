@@ -3,6 +3,7 @@
   --background: #f7f4ef;
   --text: #24302f;
   --muted: #5f6f6c;
+  --head: #517B5A;
   --accent: #077187;
   --accent-dark: #074F57;
   --soft-block: #E4C5AF;
@@ -43,7 +44,7 @@ h1 {
   line-height: 1.1;
   margin-bottom: 0.35rem;
   letter-spacing: -0.03em;
-  color: var(--text);
+  color: var(--head);
 }
 
 .subtitle {
