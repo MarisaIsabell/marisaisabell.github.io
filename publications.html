@@ -1,40 +1,70 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Publications | Marisa Isabell Keller</title>
-  <link rel="stylesheet" href="style.css" />
-</head>
+<main>
+  <section>
+    <h2>Publications</h2>
+    <p>
+      Publications are listed by year. DOI links point to the publication or preprint record.
+    </p>
+    <div id="publication-list">
+      <p>Loading publications...</p>
+    </div>
+  </section>
+</main>
 
-  <nav>
-      <a href="index.html">Home</a>
-      <a href="index.html#about">About</a>
-      <a href="research.html">Research</a>
-      <a href="msca-pf.html">MSCA-PF</a>
-      <a href="publications.html">Publications</a>
-      <a href="news.html">News</a>
-      <a href="cv.html">CV</a>
-    </nav>
+<script>
+  async function loadPublications() {
+    const list = document.getElementById("publication-list");
 
+    try {
+      const response = await fetch("publications.json");
+      const publications = await response.json();
 
-<body>
-  <header>
-    <h1>Publications</h1>
-    <p class="subtitle">Selected first-author and co-author publications</p>
+      publications.sort((a, b) => b.year - a.year);
 
-    
-  </header>
+      const grouped = publications.reduce((acc, pub) => {
+        if (!acc[pub.year]) acc[pub.year] = [];
+        acc[pub.year].push(pub);
+        return acc;
+      }, {});
 
-  <main>
-    <section>
-      <h2>2025</h2>
+      list.innerHTML = "";
 
-      <p>
-        <strong>Keller, M. I.</strong>, Zawadski, A. et al.
-        Alcohol-related liver disease disrupts bile acid synthesis and is associated
-        with compensatory gut microbiota changes.
-        Preprint, 2025. Accepted in <em>JHEP Reports</em>.
+      Object.keys(grouped)
+        .sort((a, b) => b - a)
+        .forEach(year => {
+          const yearHeading = document.createElement("h3");
+          yearHeading.textContent = year;
+          list.appendChild(yearHeading);
+
+          grouped[year].forEach(pub => {
+            const item = document.createElement("p");
+            item.className = "publication-item";
+
+            const doiLink = pub.doi
+              ? `<a href="https://doi.org/${pub.doi}" target="_blank" rel="noopener noreferrer">doi:${pub.doi}</a>`
+              : "";
+
+            const status = pub.status
+              ? `<span class="pub-status">${pub.status}</span>`
+              : "";
+
+            item.innerHTML = `
+              ${status}
+              ${pub.authors}
+              <strong>${pub.title}</strong>.
+              <em>${pub.journal}</em>.
+              ${doiLink}
+            `;
+
+            list.appendChild(item);
+          });
+        });
+    } catch (error) {
+      list.innerHTML = "<p>Publication list could not be loaded.</p>";
+    }
+  }
+
+  loadPublications();
+</script>        Preprint, 2025. Accepted in <em>JHEP Reports</em>.
       </p>
     </section>
 
