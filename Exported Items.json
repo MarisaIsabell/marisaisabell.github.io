@@ -1,0 +1,1739 @@
+[
+	{
+		"id": "http://zotero.org/users/6749987/items/JD7V6KY8",
+		"type": "article-journal",
+		"abstract": "The microbiota in individual habitats differ in both relative composition and absolute abundance. While sequencing approaches determine the relative abundances of taxa and genes, they do not provide information on their absolute abundances. Here, we developed a machine-learning approach to predict fecal microbial loads (microbial cells per gram) solely from relative abundance data. Applying our prediction model to a large-scale metagenomic dataset (n = 34,539), we demonstrated that microbial load is the major determinant of gut microbiome variation and is associated with numerous host factors, including age, diet, and medication. We further found that for several diseases, changes in microbial load, rather than the disease condition itself, more strongly explained alterations in patients’ gut microbiome. Adjusting for this effect substantially reduced the statistical significance of the majority of disease-associated species. Our analysis reveals that the fecal microbial load is a major confounder in microbiome studies, highlighting its importance for understanding microbiome variation in health and disease.",
+		"container-title": "Cell",
+		"DOI": "10.1016/j.cell.2024.10.022",
+		"ISSN": "0092-8674",
+		"journalAbbreviation": "Cell",
+		"source": "ScienceDirect",
+		"title": "Fecal microbial load is a major determinant of gut microbiome variation and a confounder for disease associations",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S0092867424012042",
+		"author": [
+			{
+				"family": "Nishijima",
+				"given": "Suguru"
+			},
+			{
+				"family": "Stankevic",
+				"given": "Evelina"
+			},
+			{
+				"family": "Aasmets",
+				"given": "Oliver"
+			},
+			{
+				"family": "Schmidt",
+				"given": "Thomas S. B."
+			},
+			{
+				"family": "Nagata",
+				"given": "Naoyoshi"
+			},
+			{
+				"family": "Keller",
+				"given": "Marisa Isabell"
+			},
+			{
+				"family": "Ferretti",
+				"given": "Pamela"
+			},
+			{
+				"family": "Juel",
+				"given": "Helene Bæk"
+			},
+			{
+				"family": "Fullam",
+				"given": "Anthony"
+			},
+			{
+				"family": "Robbani",
+				"given": "Shahriyar Mahdi"
+			},
+			{
+				"family": "Schudoma",
+				"given": "Christian"
+			},
+			{
+				"family": "Hansen",
+				"given": "Johanne Kragh"
+			},
+			{
+				"family": "Holm",
+				"given": "Louise Aas"
+			},
+			{
+				"family": "Israelsen",
+				"given": "Mads"
+			},
+			{
+				"family": "Schierwagen",
+				"given": "Robert"
+			},
+			{
+				"family": "Torp",
+				"given": "Nikolaj"
+			},
+			{
+				"family": "Telzerow",
+				"given": "Anja"
+			},
+			{
+				"family": "Hercog",
+				"given": "Rajna"
+			},
+			{
+				"family": "Kandels",
+				"given": "Stefanie"
+			},
+			{
+				"family": "Hazenbrink",
+				"given": "Diënty H. M."
+			},
+			{
+				"family": "Arumugam",
+				"given": "Manimozhiyan"
+			},
+			{
+				"family": "Bendtsen",
+				"given": "Flemming"
+			},
+			{
+				"family": "Brøns",
+				"given": "Charlotte"
+			},
+			{
+				"family": "Fonvig",
+				"given": "Cilius Esmann"
+			},
+			{
+				"family": "Holm",
+				"given": "Jens-Christian"
+			},
+			{
+				"family": "Nielsen",
+				"given": "Trine"
+			},
+			{
+				"family": "Pedersen",
+				"given": "Julie Steen"
+			},
+			{
+				"family": "Thiele",
+				"given": "Maja Sofie"
+			},
+			{
+				"family": "Trebicka",
+				"given": "Jonel"
+			},
+			{
+				"family": "Org",
+				"given": "Elin"
+			},
+			{
+				"family": "Krag",
+				"given": "Aleksander"
+			},
+			{
+				"family": "Hansen",
+				"given": "Torben"
+			},
+			{
+				"family": "Kuhn",
+				"given": "Michael"
+			},
+			{
+				"family": "Bork",
+				"given": "Peer"
+			},
+			{
+				"family": "Hansen",
+				"given": "Torben"
+			},
+			{
+				"family": "Mann",
+				"given": "Matthias"
+			},
+			{
+				"family": "Matthijnssens",
+				"given": "Jelle"
+			},
+			{
+				"family": "Krag",
+				"given": "Aleksander"
+			},
+			{
+				"family": "Bork",
+				"given": "Peer"
+			},
+			{
+				"family": "Arumugam",
+				"given": "Manimozhiyan"
+			},
+			{
+				"family": "Trebicka",
+				"given": "Jonel"
+			},
+			{
+				"family": "Karsdal",
+				"given": "Morten"
+			},
+			{
+				"family": "Anastasiadou",
+				"given": "Ema"
+			},
+			{
+				"family": "Israelsen",
+				"given": "Hans"
+			},
+			{
+				"family": "Melberg",
+				"given": "Hans Olav"
+			},
+			{
+				"family": "Legido-Quigley",
+				"given": "Cristina"
+			},
+			{
+				"family": "Thiele",
+				"given": "Maja"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					11,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					11,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6749987/items/6BWBW7XM",
+		"type": "article-journal",
+		"abstract": "Background Patients with cirrhosis are susceptible to develop bacterial infections that trigger acute decompensation (AD) and acute-on-chronic liver failure (ACLF). Infections with multidrug-resistant organisms (MDRO) are associated with deleterious outcome. MDRO colonisation frequently proceeds MDRO infections and antibiotic therapy has been associated with MDRO colonisation. Aim The aim of the study was to assess the influence of non-antibiotic medication contributing to MDRO colonisation. Methods Three hundred twenty-four patients with AD and ACLF admitted to the ICU of Frankfurt University Hospital with MDRO screening were included. Regression models were performed to identify drugs associated with MDRO colonisation. Another cohort (n = 129) from Barcelona was included to validate. A third multi-centre cohort (n = 203) with metagenomic sequencing data of stool was included to detect antibiotic resistance genes. Results A total of 97 patients (30%) were identified to have MDRO colonisation and 35 of them (11%) developed MDRO infection. Patients with MDRO colonisation had significantly higher risk of MDRO infection than those without (p = 0.0098). Apart from antibiotic therapy (odds ratio (OR) 2.91, 95%-confidence interval (CI) 1.82–4.93, p < 0.0001), terlipressin therapy in the previous 14 days was the only independent covariate associated with MDRO colonisation in both cohorts, the overall (OR 9.47, 95%-CI 2.96–30.23, p < 0.0001) and after propensity score matching (OR 5.30, 95%-CI 1.22–23.03, p = 0.011). In the second cohort, prior terlipressin therapy was a risk factor for MDRO colonisation (OR 2.49, 95% CI 0.911–6.823, p = 0.075) and associated with risk of MDRO infection during follow-up (p = 0.017). The validation cohort demonstrated that antibiotic inactivation genes were significantly associated with terlipressin administration (p = 0.001). Conclusions Our study reports an increased risk of MDRO colonisation in patients with AD or ACLF, who recently received terlipressin therapy, while other commonly prescribed non-antibiotic co-medications had negligible influence. Future prospective trials are needed to confirm these results.",
+		"container-title": "Alimentary Pharmacology & Therapeutics",
+		"DOI": "10.1111/apt.17899",
+		"ISSN": "1365-2036",
+		"issue": "7",
+		"language": "en",
+		"license": "© 2024 The Authors. Alimentary Pharmacology & Therapeutics published by John Wiley & Sons Ltd.",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/apt.17899",
+		"page": "877-888",
+		"source": "Wiley Online Library",
+		"title": "Terlipressin therapy is associated with increased risk of colonisation with multidrug-resistant bacteria in patients with decompensated cirrhosis",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/apt.17899",
+		"volume": "59",
+		"author": [
+			{
+				"family": "Mücke",
+				"given": "Marcus M."
+			},
+			{
+				"family": "Hernández-Tejero",
+				"given": "María"
+			},
+			{
+				"family": "Gu",
+				"given": "Wenyi"
+			},
+			{
+				"family": "Kuhn",
+				"given": "Michael"
+			},
+			{
+				"family": "Janz",
+				"given": "Malte"
+			},
+			{
+				"family": "Keller",
+				"given": "Marisa I."
+			},
+			{
+				"family": "Fullam",
+				"given": "Anthony"
+			},
+			{
+				"family": "Altepeter",
+				"given": "Laura"
+			},
+			{
+				"family": "Mücke",
+				"given": "Victoria T."
+			},
+			{
+				"family": "Finkelmeier",
+				"given": "Fabian"
+			},
+			{
+				"family": "Schwarzkopf",
+				"given": "Katharina M."
+			},
+			{
+				"family": "Cremonese",
+				"given": "Carla"
+			},
+			{
+				"family": "Hunyady",
+				"given": "Peter-Merton"
+			},
+			{
+				"family": "Heilani",
+				"given": "Myriam W."
+			},
+			{
+				"family": "Uschner",
+				"given": "Frank Erhard"
+			},
+			{
+				"family": "Schierwagen",
+				"given": "Robert"
+			},
+			{
+				"family": "Brol",
+				"given": "Maximilian J."
+			},
+			{
+				"family": "Fischer",
+				"given": "Julia"
+			},
+			{
+				"family": "Klein",
+				"given": "Sabine"
+			},
+			{
+				"family": "Peiffer",
+				"given": "Kai-Henrik"
+			},
+			{
+				"family": "Hogardt",
+				"given": "Michael"
+			},
+			{
+				"family": "Shoaie",
+				"given": "Saeed"
+			},
+			{
+				"family": "Coenraad",
+				"given": "Minneke J."
+			},
+			{
+				"family": "Bojunga",
+				"given": "Jörg"
+			},
+			{
+				"family": "Arroyo",
+				"given": "Vicente"
+			},
+			{
+				"family": "Zeuzem",
+				"given": "Stefan"
+			},
+			{
+				"family": "Kempf",
+				"given": "Volkhard A. J."
+			},
+			{
+				"family": "Welsch",
+				"given": "Christoph"
+			},
+			{
+				"family": "Laleman",
+				"given": "Wim"
+			},
+			{
+				"family": "Bork",
+				"given": "Peer"
+			},
+			{
+				"family": "Fernandez",
+				"given": "Javier"
+			},
+			{
+				"family": "Trebicka",
+				"given": "Jonel"
+			},
+			{
+				"literal": "MICROB-PREDICT and PREDICT Study Group of the EASL-CLIF Consortium"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					8,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6749987/items/62SFSJZX",
+		"type": "article-journal",
+		"abstract": "The fungal component of the human gut microbiome, also known as the mycobiome, plays a vital role in intestinal ecology and human health. However, the overall structure of the gut mycobiome as well as the inter-individual variations in fungal composition remains largely unknown. In this study, we collected a total of 3363 fungal sequencing samples from 16 cohorts across three continents, including 572 newly profiled samples from China.",
+		"container-title": "Microbiome",
+		"DOI": "10.1186/s40168-023-01586-y",
+		"ISSN": "2049-2618",
+		"issue": "1",
+		"journalAbbreviation": "Microbiome",
+		"page": "179",
+		"source": "BioMed Central",
+		"title": "Enterotypes of the human gut mycobiome",
+		"URL": "https://doi.org/10.1186/s40168-023-01586-y",
+		"volume": "11",
+		"author": [
+			{
+				"family": "Lai",
+				"given": "Senying"
+			},
+			{
+				"family": "Yan",
+				"given": "Yan"
+			},
+			{
+				"family": "Pu",
+				"given": "Yanni"
+			},
+			{
+				"family": "Lin",
+				"given": "Shuchun"
+			},
+			{
+				"family": "Qiu",
+				"given": "Jian-Ge"
+			},
+			{
+				"family": "Jiang",
+				"given": "Bing-Hua"
+			},
+			{
+				"family": "Keller",
+				"given": "Marisa Isabell"
+			},
+			{
+				"family": "Wang",
+				"given": "Mingyu"
+			},
+			{
+				"family": "Bork",
+				"given": "Peer"
+			},
+			{
+				"family": "Chen",
+				"given": "Wei-Hua"
+			},
+			{
+				"family": "Zheng",
+				"given": "Yan"
+			},
+			{
+				"family": "Zhao",
+				"given": "Xing-Ming"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6749987/items/XJ86YXQM",
+		"type": "article-journal",
+		"abstract": "Progressive impairment in lung function caused by chronic polymicrobial airway infection remains the major cause of death in patients with cystic fibrosis (CF). Cross-sectional studies suggest an association between lung function decline and specific lung microbiome ecotypes. However, longitudinal studies on the stability of the airway microbiome are missing for adolescents with CF constituting the age group showing the highest rate of decline in lung function. In this study, we analyzed longitudinal lung function data and sputum samples collected over a period of 3 to 5 years from 12 adolescents with CF. The sputum microbiome was analyzed using 16S rRNA gene sequencing. Our results indicate that the individual course of the lung microbiome is associated with longitudinal lung function. In our cohort, patients with a dynamic, diverse microbiome showed a slower decline of lung function measured by FEV1% predicted, whereas a more stable and less diverse lung microbiome was related to worse outcomes. Specifically, a higher abundance of the phyla Bacteroidetes and Firmicutes was linked to a better clinical outcome, while Proteobacteria were correlated with a decline in FEV1% predicted. Our study indicates that the stability and diversity of the lung microbiome and the abundance of Bacteroidetes and Firmicutes are associated with the lung function decline and are one of the contributing factors to the disease severity.",
+		"container-title": "Frontiers in Cellular and Infection Microbiology",
+		"DOI": "10.3389/fcimb.2021.763121",
+		"ISSN": "2235-2988",
+		"page": "1204",
+		"source": "Frontiers",
+		"title": "A Volatile and Dynamic Longitudinal Microbiome Is Associated With Less Reduction in Lung Function in Adolescents With Cystic Fibrosis",
+		"URL": "https://www.frontiersin.org/article/10.3389/fcimb.2021.763121",
+		"volume": "11",
+		"author": [
+			{
+				"family": "Metzger",
+				"given": "Marisa I."
+			},
+			{
+				"literal": "Simon Y. Graeber"
+			},
+			{
+				"family": "Stahl",
+				"given": "Mirjam"
+			},
+			{
+				"family": "Sommerburg",
+				"given": "Olaf"
+			},
+			{
+				"family": "Mall",
+				"given": "Marcus A."
+			},
+			{
+				"family": "Dalpke",
+				"given": "Alexander H."
+			},
+			{
+				"family": "Boutin",
+				"given": "Sébastien"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					12,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6749987/items/EQ3ITA6S",
+		"type": "article-journal",
+		"abstract": "Taxonomic profiling is a fundamental task in microbiome research that aims to detect and quantify the relative abundance of microorganisms in biological samples. Available methods using shotgun metagenomic data generally depend on the deposition of sequenced and taxonomically annotated genomes, usually from cultures of isolated strains, in reference databases (reference genomes). However, the majority of microorganisms have not been cultured yet. Thus, a substantial fraction of microbial community members remains unaccounted for during taxonomic profiling, particularly in samples from underexplored environments. To address this issue, we developed the mOTU profiler, a tool that enables reference genome-independent species-level profiling of metagenomes. As such, it supports the identification and quantification of both “known” and “unknown” species based on a set of select marker genes.",
+		"container-title": "Microbiome",
+		"DOI": "10.1186/s40168-022-01410-z",
+		"ISSN": "2049-2618",
+		"issue": "1",
+		"journalAbbreviation": "Microbiome",
+		"page": "212",
+		"source": "BioMed Central",
+		"title": "Cultivation-independent genomes greatly expand taxonomic-profiling capabilities of mOTUs across various environments",
+		"URL": "https://doi.org/10.1186/s40168-022-01410-z",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Ruscheweyh",
+				"given": "Hans-Joachim"
+			},
+			{
+				"family": "Milanese",
+				"given": "Alessio"
+			},
+			{
+				"family": "Paoli",
+				"given": "Lucas"
+			},
+			{
+				"family": "Karcher",
+				"given": "Nicolai"
+			},
+			{
+				"family": "Clayssen",
+				"given": "Quentin"
+			},
+			{
+				"family": "Keller",
+				"given": "Marisa Isabell"
+			},
+			{
+				"family": "Wirbel",
+				"given": "Jakob"
+			},
+			{
+				"family": "Bork",
+				"given": "Peer"
+			},
+			{
+				"family": "Mende",
+				"given": "Daniel R."
+			},
+			{
+				"family": "Zeller",
+				"given": "Georg"
+			},
+			{
+				"family": "Sunagawa",
+				"given": "Shinichi"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					2,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6749987/items/ECJBHUY6",
+		"type": "article-journal",
+		"abstract": "Background\nHumans have coevolved with microbial communities to establish a mutually advantageous relationship that is still poorly characterized and can provide a better understanding of the human microbiome. Comparative metagenomic analysis of human and non-human primate (NHP) microbiomes offers a promising approach to study this symbiosis. Very few microbial species have been characterized in NHP microbiomes due to their poor representation in the available cataloged microbial diversity, thus limiting the potential of such comparative approaches.\n\nResults\nWe reconstruct over 1000 previously uncharacterized microbial species from 6 available NHP metagenomic cohorts, resulting in an increase of the mappable fraction of metagenomic reads by 600%. These novel species highlight that almost 90% of the microbial diversity associated with NHPs has been overlooked. Comparative analysis of this new catalog of taxa with the collection of over 150,000 genomes from human metagenomes points at a limited species-level overlap, with only 20% of microbial candidate species in NHPs also found in the human microbiome. This overlap occurs mainly between NHPs and non-Westernized human populations and NHPs living in captivity, suggesting that host lifestyle plays a role comparable to host speciation in shaping the primate intestinal microbiome. Several NHP-specific species are phylogenetically related to human-associated microbes, such as Elusimicrobia and Treponema, and could be the consequence of host-dependent evolutionary trajectories.\n\nConclusions\nThe newly reconstructed species greatly expand the microbial diversity associated with NHPs, thus enabling better interrogation of the primate microbiome and empowering in-depth human and non-human comparative and co-diversification studies.",
+		"container-title": "Genome Biology",
+		"DOI": "10.1186/s13059-019-1923-9",
+		"ISSN": "1474-7596",
+		"journalAbbreviation": "Genome Biol",
+		"page": "299",
+		"PMID": "31883524",
+		"PMCID": "PMC6935492",
+		"source": "PubMed Central",
+		"title": "Microbial genomes from non-human primate gut metagenomes expand the primate-associated bacterial tree of life with over 1000 novel species",
+		"URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6935492/",
+		"volume": "20",
+		"author": [
+			{
+				"family": "Manara",
+				"given": "Serena"
+			},
+			{
+				"family": "Asnicar",
+				"given": "Francesco"
+			},
+			{
+				"family": "Beghini",
+				"given": "Francesco"
+			},
+			{
+				"family": "Bazzani",
+				"given": "Davide"
+			},
+			{
+				"family": "Cumbo",
+				"given": "Fabio"
+			},
+			{
+				"family": "Zolfo",
+				"given": "Moreno"
+			},
+			{
+				"family": "Nigro",
+				"given": "Eleonora"
+			},
+			{
+				"family": "Karcher",
+				"given": "Nicolai"
+			},
+			{
+				"family": "Manghi",
+				"given": "Paolo"
+			},
+			{
+				"family": "Metzger",
+				"given": "Marisa Isabell"
+			},
+			{
+				"family": "Pasolli",
+				"given": "Edoardo"
+			},
+			{
+				"family": "Segata",
+				"given": "Nicola"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					2,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					12,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6749987/items/LFXXJ8JZ",
+		"type": "article-journal",
+		"container-title": "Journal of Hepatology",
+		"DOI": "10.1016/j.jhep.2024.03.035",
+		"ISSN": "0168-8278, 1600-0641",
+		"issue": "0",
+		"journalAbbreviation": "Journal of Hepatology",
+		"language": "English",
+		"PMID": "38552880",
+		"publisher": "Elsevier",
+		"source": "www.journal-of-hepatology.eu",
+		"title": "Opportunities and barriers in omics-based biomarker discovery for steatotic liver diseases",
+		"URL": "https://www.journal-of-hepatology.eu/article/S0168-8278(24)00219-8/fulltext",
+		"volume": "0",
+		"author": [
+			{
+				"family": "Thiele",
+				"given": "Maja"
+			},
+			{
+				"family": "Villesen",
+				"given": "Ida Falk"
+			},
+			{
+				"family": "Niu",
+				"given": "Lili"
+			},
+			{
+				"family": "Johansen",
+				"given": "Stine"
+			},
+			{
+				"family": "Sulek",
+				"given": "Karolina"
+			},
+			{
+				"family": "Nishijima",
+				"given": "Suguru"
+			},
+			{
+				"family": "Espen",
+				"given": "Lore Van"
+			},
+			{
+				"family": "Keller",
+				"given": "Marisa"
+			},
+			{
+				"family": "Israelsen",
+				"given": "Mads"
+			},
+			{
+				"family": "Suvitaival",
+				"given": "Tommi"
+			},
+			{
+				"family": "Zawadzki",
+				"given": "Andressa",
+				"dropping-particle": "de"
+			},
+			{
+				"family": "Juel",
+				"given": "Helene Bæk"
+			},
+			{
+				"family": "Brol",
+				"given": "Maximilian Joseph"
+			},
+			{
+				"family": "Stinson",
+				"given": "Sara Elizabeth"
+			},
+			{
+				"family": "Huang",
+				"given": "Yun"
+			},
+			{
+				"family": "Silva",
+				"given": "Maria Camilla Alvarez"
+			},
+			{
+				"family": "Kuhn",
+				"given": "Michael"
+			},
+			{
+				"family": "Anastasiadou",
+				"given": "Ema"
+			},
+			{
+				"family": "Leeming",
+				"given": "Diana Julie"
+			},
+			{
+				"family": "Karsdal",
+				"given": "Morten"
+			},
+			{
+				"family": "Matthijnssens",
+				"given": "Jelle"
+			},
+			{
+				"family": "Arumugam",
+				"given": "Manimozhiyan"
+			},
+			{
+				"family": "Dalgaard",
+				"given": "Louise Torp"
+			},
+			{
+				"family": "Legido-Quigley",
+				"given": "Cristina"
+			},
+			{
+				"family": "Mann",
+				"given": "Matthias"
+			},
+			{
+				"family": "Trebicka",
+				"given": "Jonel"
+			},
+			{
+				"family": "Bork",
+				"given": "Peer"
+			},
+			{
+				"family": "Jensen",
+				"given": "Lars Juhl"
+			},
+			{
+				"family": "Hansen",
+				"given": "Torben"
+			},
+			{
+				"family": "Krag",
+				"given": "Aleksander"
+			},
+			{
+				"family": "Hansen",
+				"given": "Torben"
+			},
+			{
+				"family": "Mann",
+				"given": "Matthias"
+			},
+			{
+				"family": "Matthijnssens",
+				"given": "Jelle"
+			},
+			{
+				"family": "Krag",
+				"given": "Aleksander"
+			},
+			{
+				"family": "Bork",
+				"given": "Peer"
+			},
+			{
+				"family": "Hansen",
+				"given": "Torben"
+			},
+			{
+				"family": "Arumugam",
+				"given": "Manimozhiyan"
+			},
+			{
+				"family": "Trebicka",
+				"given": "Jonel"
+			},
+			{
+				"family": "Karsdal",
+				"given": "Morten"
+			},
+			{
+				"family": "Anastasiadou",
+				"given": "Ema"
+			},
+			{
+				"family": "Israelsen",
+				"given": "Hans"
+			},
+			{
+				"family": "Melberg",
+				"given": "Hans Olav"
+			},
+			{
+				"family": "Legido-Quigley",
+				"given": "Cristina"
+			},
+			{
+				"family": "Thiele",
+				"given": "Maja"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					3,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6749987/items/LHDQLPF7",
+		"type": "article-journal",
+		"abstract": "Introduction\nAs portal hypertension progresses in cirrhosis, bacterial translocation across a compromised gut barrier leads to endotoxemia, systemic inflammation and immune dysfunction. Gut phages play a key role in these processes by influencing bacteria-host interactions. This study explores the role of the human gut virome in acutely decompensated cirrhosis (AD) and acute-on-chronic liver failure (ACLF).\nMethods\nThe fecal virome was longitudinally assessed by metagenomic sequencing in two independent cohorts: 93 patients (292 samples) with AD or ACLF from the PREDICT study, and 94 patients (94 samples) with decompensated cirrhosis undergoing transjugular intrahepatic portosystemic shunt surgery (TIPS) collected in tertiary care setting. Beside descriptive analysis, phages were grouped according to their predicted bacterial host and lifestyle and associated to clinical parameters.\nResults\nPhage alpha-diversity was higher in ACLF patients and correlated with ACLF severity. In the absence of ACLF, the phageome was dominated by virulent phages, but in ACLF temperate phages became more prevalent. Genus-level analysis showed phageomes were highly patient-specific. Lactococcus A phages were the only phage-host group predicting ACLF development (OR = 14; Fisher test p = 0.0129). Enterococcus B phages (OR = 14.7; p = 0.0015; adj. p = 0.037) and their bacterial hosts (OR = 2.8; p = 0.020) were significantly more prevalent in cases of proven systemic bacterial infection. The presence of both phage families was linked to increased 90-day mortality rates.\nConclusion\nACLF is characterized by increased fecal virome diversity and a shift from virulent toward temperate phages at disease onset. Our study links Lactococcus A phages to ACLF development, and Enterococcus B phages to bacterial infection, while both are associated with increased 90-day mortality.\nClinical trial number\nNCT03056612\nImpact and implications\nThe human gut virome is a poorly investigated part of the human gut microbiome, especially in the context of decompensated cirrhosis and ACLF. This study identified two phages groups (Lactococcus A phages and Enterococcus B phages) with particular prognostic value. In the future, virome analysis of fecal samples could be useful for patient stratification in clinical practice.",
+		"container-title": "JHEP Reports",
+		"DOI": "10.1016/j.jhepr.2025.101622",
+		"ISSN": "2589-5559",
+		"journalAbbreviation": "JHEP Reports",
+		"page": "101622",
+		"source": "ScienceDirect",
+		"title": "Lactococcus A phages predict ACLF while Enterococcus B phages predict bacterial infection in decompensated cirrhosis",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S2589555925003040",
+		"author": [
+			{
+				"family": "Van Espen",
+				"given": "Lore"
+			},
+			{
+				"family": "Brol",
+				"given": "Maximilian Joseph"
+			},
+			{
+				"family": "Close",
+				"given": "Lila"
+			},
+			{
+				"family": "Schierwagen",
+				"given": "Robert"
+			},
+			{
+				"family": "Gu",
+				"given": "Wenyi"
+			},
+			{
+				"family": "Keller",
+				"given": "Marisa I."
+			},
+			{
+				"family": "Balogh",
+				"given": "Boglarka"
+			},
+			{
+				"family": "Fullam",
+				"given": "Anthony"
+			},
+			{
+				"family": "Coninck",
+				"given": "Lander",
+				"non-dropping-particle": "de"
+			},
+			{
+				"family": "Nakamura",
+				"given": "Tomohiro"
+			},
+			{
+				"family": "Kuhn",
+				"given": "Michael"
+			},
+			{
+				"family": "Bork",
+				"given": "Peer"
+			},
+			{
+				"family": "Laleman",
+				"given": "Wim"
+			},
+			{
+				"family": "Bajaj",
+				"given": "Jasmohan S."
+			},
+			{
+				"family": "Papp",
+				"given": "Maria"
+			},
+			{
+				"family": "Schnabl",
+				"given": "Bernd"
+			},
+			{
+				"family": "Trebicka",
+				"given": "Jonel"
+			},
+			{
+				"family": "Matthijnssens",
+				"given": "Jelle"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					11,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					10,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6749987/items/MUKCDF5Z",
+		"type": "article",
+		"abstract": "Background Enterotypes describe human fecal microbiomes grouped by similarity into clusters of microbial community composition, often associated with disease, medications, diet, and lifestyle. Numbers and determinants of enterotypes have been derived by diverse frameworks and applied to cohorts that often lack diversity or inter-cohort comparability.\nResults To overcome these limitations, we selected 16,772 fecal metagenomes collected from 38 countries to revisit the enterotypes using state-of-the-art fuzzy clustering and found robust clustering regardless of underlying taxonomy, consistent with previous findings. Quantifying the strength of enterotype classifications enriched the enterotype landscape, also reflecting some continuity of microbial compositions. As the classification strength was associated with the patient’s health status, we established an “Enterotype Dysbiosis Score” (EDS) as a latent covariate for various diseases.\nConclusion This global study confirms the enterotypes, reveals a dysbiosis signal within the enterotype landscape, and enables robust classification of metagenomes with an online “Enterotyper” tool, allowing reproducible analysis in future studies.\n<img class=\"highwire-fragment fragment-image\" alt=\"Figure\" src=\"https://www.biorxiv.org/content/biorxiv/early/2025/09/23/2024.08.13.607711/F1.medium.gif\" width=\"440\" height=\"173\"/>Download figureOpen in new tab",
+		"DOI": "10.1101/2024.08.13.607711",
+		"language": "en",
+		"license": "© 2025, Posted by Cold Spring Harbor Laboratory. This pre-print is available under a Creative Commons License (Attribution 4.0 International), CC BY 4.0, as described at http://creativecommons.org/licenses/by/4.0/",
+		"note": "ISSN: 2692-8205\npage: 2024.08.13.607711\nsection: New Results",
+		"publisher": "bioRxiv",
+		"source": "bioRxiv",
+		"title": "Refined Enterotyping Reveals Dysbiosis in Global Fecal Metagenomes",
+		"URL": "https://www.biorxiv.org/content/10.1101/2024.08.13.607711v3",
+		"author": [
+			{
+				"family": "Keller",
+				"given": "Marisa Isabell"
+			},
+			{
+				"family": "Nishijima",
+				"given": "Suguru"
+			},
+			{
+				"family": "Podlesny",
+				"given": "Daniel"
+			},
+			{
+				"family": "Kim",
+				"given": "Chan Yeong"
+			},
+			{
+				"family": "Robbani",
+				"given": "Shahriyar Mahdi"
+			},
+			{
+				"family": "Schudoma",
+				"given": "Christian"
+			},
+			{
+				"family": "Fullam",
+				"given": "Anthony"
+			},
+			{
+				"family": "Schiller",
+				"given": "Jonas"
+			},
+			{
+				"family": "Letunic",
+				"given": "Ivica"
+			},
+			{
+				"family": "Akanni",
+				"given": "Wasiu"
+			},
+			{
+				"family": "Orakov",
+				"given": "Askarbek"
+			},
+			{
+				"family": "Schmidt",
+				"given": "Thomas Sebastian"
+			},
+			{
+				"family": "Marotta",
+				"given": "Federico"
+			},
+			{
+				"family": "Telzerow",
+				"given": "Anja"
+			},
+			{
+				"family": "Hazenbrink",
+				"given": "Diënty HM"
+			},
+			{
+				"family": "Hercog",
+				"given": "Rajna"
+			},
+			{
+				"family": "Kandels",
+				"given": "Stefanie"
+			},
+			{
+				"family": "Schierwagen",
+				"given": "Robert"
+			},
+			{
+				"family": "Klein",
+				"given": "Sabine"
+			},
+			{
+				"family": "Brol",
+				"given": "Maximilian Joseph"
+			},
+			{
+				"family": "Gu",
+				"given": "Wenyi"
+			},
+			{
+				"family": "Uschner",
+				"given": "Frank Erhard"
+			},
+			{
+				"family": "Papp",
+				"given": "Maria"
+			},
+			{
+				"family": "Laleman",
+				"given": "Wim"
+			},
+			{
+				"family": "Shawcross",
+				"given": "Debbie"
+			},
+			{
+				"family": "Conraad",
+				"given": "Minneke J."
+			},
+			{
+				"family": "Jalan",
+				"given": "Rajiv"
+			},
+			{
+				"family": "Thorhauge",
+				"given": "Katrine Holtz"
+			},
+			{
+				"family": "Johansen",
+				"given": "Stine"
+			},
+			{
+				"family": "Thiele",
+				"given": "Maja"
+			},
+			{
+				"family": "Krag",
+				"given": "Aleksander"
+			},
+			{
+				"family": "Trebicka",
+				"given": "Jonel"
+			},
+			{
+				"family": "Kuhn",
+				"given": "Michael"
+			},
+			{
+				"family": "Rossum",
+				"given": "Thea Van"
+			},
+			{
+				"family": "Bork",
+				"given": "Peer"
+			},
+			{
+				"family": "Consortium",
+				"given": "the MICROB-PREDICT"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					11,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6749987/items/8LP5HNPH",
+		"type": "thesis",
+		"abstract": "The human gut microbiome is unique to each individual and contains approximately 100 times more genes than the human genome. Alterations in its composition have been linked to numerous diseases and conditions, including liver disease and pancreatic cancer, highlighting its potential for clinical disease management. However, microbiome-based biomarker applications remain rare and require years of interdisciplinary collaboration and research to develop.\nIn this dissertation, I present projects that cover the entire development of biomarkers derived from the human fecal microbiome. This includes the identification of biomarkers, the advancement of our understanding of these biomarkers, and their translation into industry-compliant and cost-effective detection tests, ultimately bringing them closer to routine application. The work will be presented starting from a global view of the microbiome, zooming in to specific analysis in the context of liver disease, and finally using discovered changes in microbial species to develop targeted biomarker detection tests.",
+		"DOI": "10.25972/OPUS-37486",
+		"language": "eng",
+		"license": "https://creativecommons.org/licenses/by-nc/4.0/deed.de",
+		"note": "DOI: 10.25972/OPUS-37486",
+		"publisher": "Universität Würzburg",
+		"source": "opus.bibliothek.uni-wuerzburg.de",
+		"title": "Biomarkers derived from the Human Fecal Microbiome in the Context of Pancreatic and Liver Diseases",
+		"URL": "https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/37486",
+		"author": [
+			{
+				"family": "Keller",
+				"given": "Marisa Isabell"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6749987/items/SQBMS9HH",
+		"type": "article-journal",
+		"abstract": "Background & Aims\nAlcohol overuse disrupts liver function and alters gut microbial communities, with alcohol-related liver disease (ALD) causing half of all liver-related deaths worldwide. Bile acids (BAs) regulate liver and gut function, but their homeostasis becomes disrupted in ALD. Gut microbes transform primary BAs to secondary BAs, which are reabsorbed via enterohepatic circulation, but BA metabolism during ALD progression remains poorly understood.\nMethods\nWe investigated BA homeostasis in a cross-sectional ALD cohort (n=462), alongside matched healthy controls (n=148), and validated key findings in two independent ALD cohorts (n=34 and n=52). We integrated BA concentrations, measured by targeted mass spectrometry in feces and plasma, with liver proteomics and gut microbiome profiles from metagenomic and metatranscriptomic sequencing.\nResults\nAdvanced fibrosis states were associated with decreased hepatic BA synthesis, impaired hepatic BA uptake from blood but with increased levels of primary and secondary BAs in plasma (inprimis, taurocholic acid: F=69.9, p=8.6e-66) and feces (inprimis, cholic acid: F=5.5, p=1.4e-4). The abundance of microbial secondary BA dehydroxylation and epimerization pathways in the gut microbiome community increased with disease severity. Genes encoding the oxidation arm in the multi-step dehydroxylation pathway (e.b. baiB) increased, whereas those in the reduction arm (baiN) were depleted. In ALD patients, we suggest Eggerthella lenta, Mediterraneibacter torques, and Bacteroides thetaiotaomicron as relevant microbes for BA metabolism.\nConclusion\nFibrotic ALD is characterized by disrupted primary BA synthesis and hepatic uptake, leading to hepatotoxic BA accumulation in the gut and blood circulation. Altered microbial secondary BA metabolism reflects a functional shift in the gut microbiome throughout the fibrosis stages. Our findings highlight the gut-liver axis as an important factor influencing ALD progression, even in early, asymptomatic fibrosis stages.\nClinical trial number\nGALAXY main cohort: Danish Data Protection Agency nos. 13/8204, 16/3492 and 18/22692; and Odense Patient Data Exploratory Network under study identification nos. OP_040 and OP_239 Validation cohort 1: EudraCT number 20214-001856-51 Validation cohort 2: ClinicalTrial.gov ID NCT03863730\nImpact and Implications\nThis study shows that integrating different omics approaches provides insight into metabolic disruptions across the gut-liver axis that drive alcohol-related liver disease progression. Additionally, our study identifies specific bacterial species influencing bile acid concentrations in alcohol-related liver disease using data from human fecal metagenomics and metatranscriptomics. These findings could inform the design of future therapeutic targets focusing on either the liver or the gut for treating alcohol-related liver disease.",
+		"container-title": "JHEP Reports",
+		"DOI": "10.1016/j.jhepr.2026.101848",
+		"ISSN": "2589-5559",
+		"journalAbbreviation": "JHEP Reports",
+		"page": "101848",
+		"source": "ScienceDirect",
+		"title": "Alcohol-Related Liver Disease Disrupts Bile Acid Homeostasis and Gut Microbial Bile Acid Metabolism",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S2589555926001199",
+		"author": [
+			{
+				"family": "Keller",
+				"given": "Marisa Isabell"
+			},
+			{
+				"family": "Zawadzki",
+				"given": "Andressa",
+				"non-dropping-particle": "de"
+			},
+			{
+				"family": "Thiele",
+				"given": "Maja"
+			},
+			{
+				"family": "Suvitaival",
+				"given": "Tommi"
+			},
+			{
+				"family": "Sulek",
+				"given": "Karolina"
+			},
+			{
+				"family": "Kuhn",
+				"given": "Michael"
+			},
+			{
+				"family": "Schudoma",
+				"given": "Christian"
+			},
+			{
+				"family": "Podlesny",
+				"given": "Daniel"
+			},
+			{
+				"family": "Nishijima",
+				"given": "Suguru"
+			},
+			{
+				"family": "Fullam",
+				"given": "Anthony"
+			},
+			{
+				"family": "Kim",
+				"given": "Chan Yeong"
+			},
+			{
+				"family": "Niu",
+				"given": "Lili"
+			},
+			{
+				"family": "Wretlind",
+				"given": "Asger"
+			},
+			{
+				"family": "Hansen",
+				"given": "Johanne Krag"
+			},
+			{
+				"family": "Israelsen",
+				"given": "Mads"
+			},
+			{
+				"family": "Johansen",
+				"given": "Stine"
+			},
+			{
+				"family": "Akanni",
+				"given": "Wasiu"
+			},
+			{
+				"family": "Hazenbrink",
+				"given": "Diënty"
+			},
+			{
+				"family": "Juel",
+				"given": "Helene Baek"
+			},
+			{
+				"family": "Mann",
+				"given": "Matthias"
+			},
+			{
+				"family": "Hansen",
+				"given": "Torben"
+			},
+			{
+				"family": "Krag",
+				"given": "Aleksander"
+			},
+			{
+				"family": "Bork",
+				"given": "Peer"
+			},
+			{
+				"family": "Legido-Quigley",
+				"given": "Cristina"
+			},
+			{
+				"family": "Hansen",
+				"given": "Torben"
+			},
+			{
+				"family": "Mann",
+				"given": "Matthias"
+			},
+			{
+				"family": "Matthijnssens",
+				"given": "Jelle"
+			},
+			{
+				"family": "Krag",
+				"given": "Aleksander"
+			},
+			{
+				"family": "Bork",
+				"given": "Peer"
+			},
+			{
+				"family": "Arumugam",
+				"given": "Manimozhiyan"
+			},
+			{
+				"family": "Trebicka",
+				"given": "Jonel"
+			},
+			{
+				"family": "Karsdal",
+				"given": "Morten"
+			},
+			{
+				"family": "Anastasiadou",
+				"given": "Ema"
+			},
+			{
+				"family": "Israelsen",
+				"given": "Hans"
+			},
+			{
+				"family": "Melberg",
+				"given": "Hans Olav"
+			},
+			{
+				"family": "Legido-Quigley",
+				"given": "Cristina"
+			},
+			{
+				"family": "Thiele",
+				"given": "Maja"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					3
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6749987/items/TYG2S747",
+		"type": "article-journal",
+		"abstract": "Large public datasets of the human microbiome now exist but combining them for large-scale analysis is difficult due to a lack of standardization. We developed curatedMetagenomicData (cMD) 3, a uniformly processed collection of over 22,000 human microbiome samples with manually curated metadata from 94 studies and 42 countries. This large and diverse resource allows for meta-analysis of the links between microbes and human health. Through meta-analysis, we identified hundreds of microbial species and thousands of microbial functions significantly associated with a person’s sex, age, body mass index, and disease status, and catalog these as references. We developed an “oral enrichment score” (OES) based on the relative abundance of bacteria typically found in the oral cavity and not in the gut. Higher OES in the gut is a consistent feature in individuals with disease, suggesting that the relative abundance of oral bacteria in the gut is a simple and quantifiable signal of altered microbiome health. These analyses identify modest but widely shared patterns in human microbiomes, serving as a reproducible and readily updatable reference.",
+		"container-title": "Nature Communications",
+		"DOI": "10.1038/s41467-025-66888-1",
+		"ISSN": "2041-1723",
+		"issue": "1",
+		"journalAbbreviation": "Nat Commun",
+		"language": "en",
+		"license": "2025 The Author(s)",
+		"page": "196",
+		"publisher": "Nature Publishing Group",
+		"source": "www.nature.com",
+		"title": "Meta-analysis of 22,710 human microbiome metagenomes defines an oral-to-gut microbial enrichment score and associations with host health and disease",
+		"URL": "https://www.nature.com/articles/s41467-025-66888-1",
+		"volume": "17",
+		"author": [
+			{
+				"family": "Manghi",
+				"given": "Paolo"
+			},
+			{
+				"family": "Antonello",
+				"given": "Giacomo"
+			},
+			{
+				"family": "Schiffer",
+				"given": "Lucas"
+			},
+			{
+				"family": "Golzato",
+				"given": "Davide"
+			},
+			{
+				"family": "Wokaty",
+				"given": "Andres"
+			},
+			{
+				"family": "Beghini",
+				"given": "Francesco"
+			},
+			{
+				"family": "Mirzayi",
+				"given": "Chloe"
+			},
+			{
+				"family": "Long",
+				"given": "Kaelyn"
+			},
+			{
+				"family": "Gravel-Pucillo",
+				"given": "Kai"
+			},
+			{
+				"family": "Piccinno",
+				"given": "Gianmarco"
+			},
+			{
+				"family": "Gamboa-Tuz",
+				"given": "Samuel David"
+			},
+			{
+				"family": "Bonetti",
+				"given": "Arianna"
+			},
+			{
+				"family": "D’Amato",
+				"given": "Giacomo"
+			},
+			{
+				"family": "Azhar",
+				"given": "Rimsha"
+			},
+			{
+				"family": "Eckenrode",
+				"given": "Kelly"
+			},
+			{
+				"family": "Zohra",
+				"given": "Fatima"
+			},
+			{
+				"family": "Giunchiglia",
+				"given": "Valentina"
+			},
+			{
+				"family": "Keller",
+				"given": "Marisa"
+			},
+			{
+				"family": "Pedrotti",
+				"given": "Anna"
+			},
+			{
+				"family": "Likhotkin",
+				"given": "Ilya"
+			},
+			{
+				"family": "Elsafoury",
+				"given": "Shaimaa"
+			},
+			{
+				"family": "Geistlinger",
+				"given": "Ludwig"
+			},
+			{
+				"family": "Blanco-Miguez",
+				"given": "Aitor"
+			},
+			{
+				"family": "Thomas",
+				"given": "Andrew Maltez"
+			},
+			{
+				"family": "Zolfo",
+				"given": "Moreno"
+			},
+			{
+				"family": "Ramos",
+				"given": "Marcel"
+			},
+			{
+				"family": "Valles-Colomer",
+				"given": "Mireia"
+			},
+			{
+				"family": "Tamburini",
+				"given": "Sabrina"
+			},
+			{
+				"family": "Asnicar",
+				"given": "Francesco"
+			},
+			{
+				"family": "Jones",
+				"given": "Heidi E."
+			},
+			{
+				"family": "Huttenhower",
+				"given": "Curtis"
+			},
+			{
+				"family": "Carey",
+				"given": "Vincent"
+			},
+			{
+				"family": "Davis",
+				"given": "Sean"
+			},
+			{
+				"family": "Pasolli",
+				"given": "Edoardo"
+			},
+			{
+				"family": "Oh",
+				"given": "Sehyun"
+			},
+			{
+				"family": "Segata",
+				"given": "Nicola"
+			},
+			{
+				"family": "Waldron",
+				"given": "Levi"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					12,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6749987/items/49AM4EGE",
+		"type": "article-journal",
+		"abstract": "Metagenomic sequencing enables the in-depth study of microbes and their functions in humans, animals, and the environment. While sequencing data is deposited in public databases, the associated contextual data is often not complete and needs to be retrieved from primary publications. This lack of access to sample-level metadata like clinical data or in situ observations impedes cross-study comparisons and meta-analyses. We therefore created the Metalog database, a repository of manually curated metadata for metagenomics samples across the globe. It contains 80 423 samples from humans (including 66 527 of the gut microbiome), 10 744 animal samples, 5547 ocean water samples, and 23 455 samples from other environmental habitats such as soil, sediment, or fresh water. Samples have been consistently annotated for a set of habitat-specific core features, such as demographics, disease status, and medication for humans; host species and captivity status for animals; and filter sizes and salinity for marine samples. Additionally, all original metadata is provided in tabular form, simplifying focused studies e.g. into nutrient concentrations. Pre-computed taxonomic profiles facilitate rapid data exploration, while links to the SPIRE database enable genome-based analyses. The database is freely available for browsing and download at https://metalog.embl.de/.",
+		"container-title": "Nucleic Acids Research",
+		"DOI": "10.1093/nar/gkaf1118",
+		"ISSN": "1362-4962",
+		"issue": "D1",
+		"journalAbbreviation": "Nucleic Acids Res",
+		"page": "D826-D834",
+		"source": "Silverchair",
+		"title": "Metalog: curated and harmonised contextual data for global metagenomics samples",
+		"title-short": "Metalog",
+		"URL": "https://doi.org/10.1093/nar/gkaf1118",
+		"volume": "54",
+		"author": [
+			{
+				"family": "Kuhn",
+				"given": "Michael"
+			},
+			{
+				"family": "Schmidt",
+				"given": "Thomas Sebastian B"
+			},
+			{
+				"family": "Ferretti",
+				"given": "Pamela"
+			},
+			{
+				"family": "Głazek",
+				"given": "Anna"
+			},
+			{
+				"family": "Robbani",
+				"given": "Shahriyar Mahdi"
+			},
+			{
+				"family": "Akanni",
+				"given": "Wasiu"
+			},
+			{
+				"family": "Fullam",
+				"given": "Anthony"
+			},
+			{
+				"family": "Schudoma",
+				"given": "Christian"
+			},
+			{
+				"family": "Cetin",
+				"given": "Ela"
+			},
+			{
+				"family": "Hassan",
+				"given": "Mariam"
+			},
+			{
+				"family": "Noack",
+				"given": "Kasimir"
+			},
+			{
+				"family": "Schwarz",
+				"given": "Anna"
+			},
+			{
+				"family": "Thielemann",
+				"given": "Roman"
+			},
+			{
+				"family": "Thomas",
+				"given": "Leonie"
+			},
+			{
+				"family": "von Stetten",
+				"given": "Moritz"
+			},
+			{
+				"family": "Alves",
+				"given": "Renato"
+			},
+			{
+				"family": "Iyappan",
+				"given": "Anandhi"
+			},
+			{
+				"family": "Kartal",
+				"given": "Ece"
+			},
+			{
+				"family": "Kel",
+				"given": "Ivan"
+			},
+			{
+				"family": "Keller",
+				"given": "Marisa I"
+			},
+			{
+				"family": "Maistrenko",
+				"given": "Oleksandr"
+			},
+			{
+				"family": "Mankowski",
+				"given": "Anna"
+			},
+			{
+				"family": "Nishijima",
+				"given": "Suguru"
+			},
+			{
+				"family": "Podlesny",
+				"given": "Daniel"
+			},
+			{
+				"family": "Schiller",
+				"given": "Jonas"
+			},
+			{
+				"family": "Schulz",
+				"given": "Sarah"
+			},
+			{
+				"family": "Van Rossum",
+				"given": "Thea"
+			},
+			{
+				"family": "Bork",
+				"given": "Peer"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					1,
+					6
+				]
+			]
+		}
+	}
+]
