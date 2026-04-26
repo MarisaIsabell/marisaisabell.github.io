@@ -42,6 +42,24 @@ body {
 /* ============================================
    NAVIGATION
    ============================================ */
+
+.nav-brand {
+  flex-shrink: 0;
+}
+
+.nav-name {
+  font-family: "Cormorant Garamond", Garamond, Georgia, serif;
+  font-size: 1.1rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-decoration: none;
+  color: var(--text);
+}
+
+.nav-name:hover {
+  color: var(--accent);
+}
+
 .site-nav {
   display: flex;
   align-items: center;
@@ -60,6 +78,10 @@ body {
   display: flex;
   flex-wrap: wrap;
   gap: 40px;
+}
+
+.nav-links {
+  margin-left: auto;
 }
 
 .nav-links a {
